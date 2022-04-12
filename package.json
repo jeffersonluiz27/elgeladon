@@ -1,0 +1,23 @@
+{
+  "name": "elgeladon",
+  "version": "1.0.0",
+  "description": "Projeto Catalogo El Geladon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonluiz27/elgeladon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersonluiz27/elgeladon/issues"
+  },
+  "homepage": "https://github.com/jeffersonluiz27/elgeladon#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
